@@ -52,11 +52,11 @@ We investigated the correlation coefficients of the numerical predictors and res
 For categorical variables, we looked at the distribution of price in the different categories and removed  “3g” which had a similar distribution of price for phones with or without 3G. We converted the remaining categorical predictor into dummies and dropped one column from each predictor to prevent multicollinearity.
 
 # Model Used:
-Linear Regression
-Linear Regression with log transformation of the response
-Decision Tree Regressor
-Decision tree
-Random Forest
+- Linear Regression
+- Linear Regression with log transformation of the response
+- Decision Tree Regressor
+- Decision tree
+- Random Forest
 There were 2 type of Model, Regression Model and Classification Model GridSearchCV is used to find the best Hyper-Parameter
 
 # Evaluation Metrics:
