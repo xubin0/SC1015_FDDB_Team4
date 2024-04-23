@@ -63,13 +63,13 @@ There were 2 type of Model, Regression Model and Classification Model GridSearch
 For the regression model, we looked at MSE and Explained Variance. For the Classification Model, we looked at accuracy.
 
 # Conclusion:
-Regression models provide numerical predictions while Classification Models provide categorical predictions. For users looking for a rough range, the Random forest model can be used as it has higher accuracy than the decision tree model. For users looking for a numerical prediction, the linear regression model with log transformation can be used as it has highest explained variance
+Regression models provide numerical predictions while Classification Models provide categorical predictions. For users looking for a rough range, the Random forest model can be used as it has higher accuracy than the decision tree model. For users looking for a numerical prediction, the linear regression model with log transformation can be used as it has the highest explained variance
 
 # Contributions:
 - Code: Ranen 20%/Xubin 40%/Austin 40%
 - Debug  Xubin 50%/ Austin 50%
 - Description of data: Ranen 20%/ Xubin 40%/Austin 40%
-- Notebook restructuring and presentation: Ranen 60%/ Xubin 20%/ Austin 20%
+- Notebook restructuring and presentation: Ranen 70%/ Xubin 15%/ Austin 15%
 - Slides: Austin 80%/ Xubin 20%
 - README: Xubin 100%
 - Script: Ranen 90%/ Xubin 10%
