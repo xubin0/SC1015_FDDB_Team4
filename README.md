@@ -60,9 +60,9 @@ For categorical variables, we looked at the distribution of price in the differe
 There were 2 type of Model, Regression Model and Classification Model GridSearchCV is used to find the best Hyper-Parameter
 
 # Evaluation Metrics:
-For the regression model, we looked at MSE and Explained Variance. For the Classification Model, we look at accuracy.
+For the regression model, we looked at MSE and Explained Variance. For the Classification Model, we looked at accuracy.
 
-#Conclusion:
+# Conclusion:
 Regression models provide numerical predictions while Classification Models provide categorical predictions. For users looking for a rough range, the Random forest model can be used as it has higher accuracy than the decision tree model. For users looking for a numerical prediction, the linear regression model with log transformation can be used as it has highest explained variance
 
 # Contributions:
