@@ -17,7 +17,7 @@ Our group aims to predict mobile phone prices based on the phone’s specificati
 # Introduction:
 Consumers are faced with a plethora of options when it comes to selecting their next device. With each new release, manufacturers tout a myriad of features and specifications, promising improved performance, enhanced camera capabilities, and innovative designs.Spoiled for choices, consumers may not be able to identify the phone that has the best value for money, based on the specifications of the hardware. Additionally, social media influences, opinions of others, and personal favouritism of a brand may not lead to consumers choosing the most optimal phone
 
-#Problem Statement:
+# Problem Statement:
 How do we estimate the Price of a mobile phone, based solely on its specifications?
 
 # Data Description:
