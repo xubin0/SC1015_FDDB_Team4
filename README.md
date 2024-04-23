@@ -66,5 +66,12 @@ For the regression model, we looked at MSE and Explained Variance. For the Class
 Regression models provide numerical predictions while Classification Models provide categorical predictions. For users looking for a rough range, the Random forest model can be used as it has higher accuracy than the decision tree model. For users looking for a numerical prediction, the linear regression model with log transformation can be used as it has highest explained variance
 
 # Contributions:
+- Code: Ranen 20%/Xubin 40%/Austin 40%
+- Debug  Xubin 50%/ Austin 50%
+- Description of data: Ranen 20%/ Xubin 40%/Austin 40% 
+- Slides: austin 100%
+- README: Xubin 100%
+- Script: Ranen 100%
+- Presentation video： Ranen 100%
 
 # References:
