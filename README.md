@@ -72,5 +72,5 @@ Regression models provide numerical predictions while Classification Models prov
 - Notebook structure and presentation: Ranen 60%/ Xubin 20%/ Austin 20%
 - Slides: Austin 80%/ Xubin 20%
 - README: Xubin 100%
-- Script: Ranen 100%
+- Script: Ranen 90%/ Xubin 10%
 - Presentation video filming & editing： Ranen 100%
